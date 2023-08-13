@@ -1,0 +1,10 @@
+*.txt
+*.csv
+*.xlsx
+!test/*
+!celegans_metabolic.edgelist.csv
+!citation.edgelist.csv
+!internet.edgelist.txt
+!openFlights.edgelist.csv
+!power.edgelist.csv
+!protein_interaction.edgelist.csv
