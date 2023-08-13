@@ -2,6 +2,7 @@ ipykernel
 matplotlib
 networkx
 numpy
+openpyxl
 pandas
 powerlaw
 scipy
